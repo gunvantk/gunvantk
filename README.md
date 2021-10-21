@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋,  I'm [Gunvant](https://github.com/gunvantk)
+
+#### I'm a Full-Stack Developer, specialized in Ethereum and Microsoft.Net ecosystem based in Los Angeles.
+
+### Get in touch 📫 
+
+- [Twitter](https://twitter.com/gunvant__k)
+- [LinkedIn](https://www.linkedin.com/in/gunvantk)
+- Discord (gunvant#0875)
+
 
 <!--
 **gunvantk/gunvantk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
