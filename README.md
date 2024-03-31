@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm [Gunvant](https://github.com/gunvantk)
 
-#### I'm a Full-Stack Developer, specialized in Ethereum and Microsoft.Net ecosystem based in Los Angeles.
+#### I'm a Full-Stack Developer based in Los Angeles. Currently building Manufacturing automation software.
 
 ### Get in touch 📫 
 
